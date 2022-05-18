@@ -1,5 +1,5 @@
-# hello-word
-Ejercicio de Práctica
+# hello-word.
+Ejercicio de Práctica / Editado directamente desde main.
 
 Programador en Proceso.
 
